@@ -1,0 +1,14 @@
+{
+  "name": "shen-desk",
+  "description": "Shen's Claude Code mods",
+  "owner": {
+    "name": "Shen"
+  },
+  "plugins": [
+    {
+      "name": "shen-desk",
+      "source": "./",
+      "description": "A Desk pane with vault tasks by due date and live sessions, token in/out in the footer, a vault guard, and a closeout nudge"
+    }
+  ]
+}

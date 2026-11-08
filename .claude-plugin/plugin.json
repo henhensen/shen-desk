@@ -1,0 +1,7 @@
+{
+  "name": "shen-desk",
+  "version": "0.2.0",
+  "description": "A Desk pane with vault tasks by due date and live sessions, token in/out in the footer, a vault guard, and a closeout nudge",
+  "author": { "name": "Shen" },
+  "types": "./types/index.d.ts"
+}
